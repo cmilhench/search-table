@@ -13,6 +13,7 @@
 		23321C4922EA04A50090A1B4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23321C4722EA04A50090A1B4 /* Main.storyboard */; };
 		23321C4B22EA04A60090A1B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23321C4A22EA04A60090A1B4 /* Assets.xcassets */; };
 		23321C4E22EA04A60090A1B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23321C4C22EA04A60090A1B4 /* LaunchScreen.storyboard */; };
+		23321C5622EA0BA30090A1B4 /* SearchController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23321C5522EA0BA30090A1B4 /* SearchController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		23321C4A22EA04A60090A1B4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23321C4D22EA04A60090A1B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		23321C4F22EA04A60090A1B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23321C5522EA0BA30090A1B4 /* SearchController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				23321C4122EA04A50090A1B4 /* AppDelegate.swift */,
 				23321C4322EA04A50090A1B4 /* FirstViewController.swift */,
 				23321C4522EA04A50090A1B4 /* SecondViewController.swift */,
+				23321C5522EA0BA30090A1B4 /* SearchController.swift */,
 				23321C4722EA04A50090A1B4 /* Main.storyboard */,
 				23321C4A22EA04A60090A1B4 /* Assets.xcassets */,
 				23321C4C22EA04A60090A1B4 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				23321C4622EA04A50090A1B4 /* SecondViewController.swift in Sources */,
 				23321C4222EA04A50090A1B4 /* AppDelegate.swift in Sources */,
 				23321C4422EA04A50090A1B4 /* FirstViewController.swift in Sources */,
+				23321C5622EA0BA30090A1B4 /* SearchController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
